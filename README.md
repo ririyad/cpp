@@ -2,7 +2,7 @@
 
 
 ## Prologue
-------------
+
 It's 2025 and I have decided to revisit C++. So far, I have used C++ mainly in solving DSA problems. Till now, I've never been exposed to the true powerful features of C++. Some conncerned people might say that there are better language to explore (Hello Rust). But I have some certain motivations to revisit C++ and expand my knowledge in a level that I never reached. To make things more effective, I will use less but authoritative resources.  There are certain stages I need to pass first to 
 validate my skills:
 
